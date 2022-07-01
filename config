@@ -1,0 +1,8 @@
+SERVER
+$arr=null;$conn = new mysqli("localhost", "react_160416103","ubaya","react_160416103");
+
+
+$host = "localhost";
+$user = "react_160416103";
+$pass = "ubaya";
+$db = "react_160416103";
